@@ -1,27 +1,32 @@
+<div align="center"> 
 
-<h1>About Me</h1>
-  
-- 👋 Hi, I’m @jungmin9911
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>🍀 About Me 🍀</h1>
 
-<h1>Tech Stack</h1>
+👋 Hi, I’m @jungmin9911 <br/>
+ 👀 I’m interested in ... <br/>
+ 🌱 I’m currently learning ... <br/>
+ 💞️ I’m looking to collaborate on ... <br/>
+ 📫 How to reach me ...
 
-<img src="https://img.shields.io/badge/Java-green?style=flat-square&logo=Java&logoColor=007396"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=cs3s&logoColor=1572B6"/>
+<br/>
 
+<h1>💻 Tech Stack 💻</h1>
 
-<h1></h1>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+<br/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
+<br/>
+
+<br/><br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin9911&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin9911&layout=compact&theme=shadow_green)
 
-<!---
-jungmin9911/jungmin9911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
