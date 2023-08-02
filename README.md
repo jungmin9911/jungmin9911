@@ -1,13 +1,12 @@
 <div align="center"> 
 
-<h1>🍀 About Me 🍀</h1>
+# 🙇‍♀️ 안녕하세요! 🙇‍♀️
 
-👋 Hi, I’m @jungmin9911 <br/>
- 👀 I’m interested in ... <br/>
- 🌱 I’m currently learning ... <br/>
- 💞️ I’m looking to collaborate on ... <br/>
- 📫 How to reach me ...
-
+웹 백엔드/풀스택 개발자를 희망하는 안정민입니다.  <br>
+저는 정보통신공학을 전공했습니다. <br>
+현재 JAVA기반 풀스택 웹개발을 배우고 있습니다. <br>
+아직 배울 점이 많습니다. 다양한 경험으로 매일매일 성장하는 개발자가 되고싶습니다! <br>
+   
 <br/>
 
 <h1>💻 Tech Stack 💻</h1>
