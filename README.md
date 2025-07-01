@@ -34,4 +34,14 @@ JAVA기반 풀스택 웹개발과 빅데이터 기반 자바 개발자 교육을
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jungmin9911&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jungmin9911&layout=compact&theme=shadow_green)
 
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jungmin9911&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/jungmin9911"
+    width="500"
+    height="250"
+  />
+</a>
+  
+
 </div>
