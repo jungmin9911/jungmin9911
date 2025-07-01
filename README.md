@@ -37,8 +37,8 @@ JAVA기반 풀스택 웹개발과 빅데이터 기반 자바 개발자 교육을
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=jungmin9911&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/jungmin9911?pet-id=727422245176903400"
-    width="500"
-    height="250"
+    width="600"
+    height="120"
   />
 </a>
 
