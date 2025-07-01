@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/jungmin9911">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=230&color=E3A6AE&text=Jungmin's%20Repository&textBg=false&fontAlign=50&animation=fadeIn&reversal=false&fontColor=FD866E"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=CDE4AD&text=Jungmin's%20Repository&fontColor=97DBAE"/>
   </a>
 </p>
 
