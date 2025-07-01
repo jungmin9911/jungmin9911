@@ -1,3 +1,9 @@
+<p align='center'>
+  <a href="https://github.com/jungmin9911">
+    <img src="[https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hugo's%20Dev%20Repo&section=header&fontColor=005174&fontSize=60&fontAlign=50&fontAlignY=42&animation=twinkling&desc=IoT%20CSharp,Java,Python%20Lecturer](https://capsule-render.vercel.app/api?type=blur&height=230&color=E3A6AE&text=Jungmin's%20Repository&textBg=false&fontAlign=50&animation=fadeIn&reversal=false&fontColor=FD866E)"/>
+  </a>
+</p>
+
 <div align="center"> 
 
 # 🙇‍♀️ 안녕하세요! 🙇‍♀️
